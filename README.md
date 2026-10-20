@@ -6,8 +6,6 @@
 
 **КПІ · 1 курс · C# · .NET 9 · Avalonia UI**
 
-[Усі навчальні роботи](https://github.com/nanzajjd/University-Labs)
-
 ## Завантаження та запуск
 
 Потрібен .NET SDK 9 або сумісний новіший SDK з підтримкою `net9.0`.
